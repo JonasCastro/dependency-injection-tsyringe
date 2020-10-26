@@ -24,9 +24,12 @@
 
 ## 💻 Sobre o projeto
 
-:bar_chart: Apresenta um exemplo de uso da biblioteca  <a href="https://github.com/microsoft/tsyringe">
+:bar_chart: 
+O projeto aplica um pacote de injeção de dependências chamado 
+    <a href="https://github.com/microsoft/tsyringe">
       tsyringe 
-    </a> para injeção de dependência.
+    </a>
+    . Ele permite automatizar a injeção de dependências.
 
 ---
 
