@@ -34,7 +34,7 @@
 ## :wrench: Funcionalidades
 
 - [x] Cadastro de usuário
-- [x] Listagem de todos os usuário
+- [x] Listagem de todos os usuários
 
 ---
 
@@ -109,7 +109,7 @@ Jonas Castro
 
 ## :memo: Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Licença [MIT](./LICENSE).
 
 ---
 Feito com :blue_heart: por Jonas Castro :wave: [Entre em contato!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
