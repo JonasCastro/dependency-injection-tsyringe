@@ -26,7 +26,7 @@
 
 :bar_chart: Apresenta um exemplo de uso da biblioteca  <a href="https://github.com/microsoft/tsyringe">
       tsyringe 
-    </a> para injeção de dependencia.
+    </a> para injeção de dependência.
 
 ---
 
